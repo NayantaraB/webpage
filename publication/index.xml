@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Nayantara Biswas</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/clarku</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>JOB MARKET PAPER: Can Community Health Workers Affect Reproductive Health Decisions? Evidence from India</title>
+      <link>/publication/job-market_paper/</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/job-market_paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do Daycares Affect Maternal Labor? Evidence from India</title>
+      <link>/publication/working-paper-1/</link>
+      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/working-paper-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trends in Filled Naloxone Prescriptions Before and During the COVID-19 Pandemic in the United States</title>
+      <link>/publication/published-paper/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/published-paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
